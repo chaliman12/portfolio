@@ -4,8 +4,8 @@ import React from 'react';
 const Header = () => {
   return (
     <header>
-      <h1>Your Name</h1>
-      <p>Web Developer</p>
+      <h1>Chalchisa Tamiru</h1>
+      <p>Software Engineer @MOTI Engineering</p>
     </header>
   );
 };
