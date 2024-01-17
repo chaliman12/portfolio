@@ -6,12 +6,14 @@ const Projects = () => {
     <section className="projects">
       <h2>Projects</h2>
       <div className="project">
-        <h3>Project 1</h3>
-        <p>Description of Project 1.</p>
+        <h3>Digitally Automated Auction,procurement and Delivery Platform(DAAPDP)</h3>
+        <p>The project Integrate the 3 system into 1</p>
       </div>
       <div className="project">
-        <h3>Project 2</h3>
-        <p>Description of Project 2.</p>
+        <h3>Workshop Management System </h3>
+        <p>The Sytem Allow user add new Item.
+          
+        </p>
       </div>
     </section>
   );
